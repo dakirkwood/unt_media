@@ -1,0 +1,5 @@
+<?php
+
+function unt_media_page_attachments(array &$page) {
+  $page['#attached']['library'][] = 'unt_media/umedia_styles';
+}

@@ -1,0 +1,22 @@
+.video{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.video iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+.umedia {
+  padding: 2rem 6.5rem;
+}
+.umedia figcaption.caption {
+  padding: 1rem;
+  text-align: center;
+  display: block;
+  font-size: 1rem;
+}
